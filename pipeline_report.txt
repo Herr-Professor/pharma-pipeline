@@ -1,0 +1,29 @@
+
+Pharmaceutical Research Data Pipeline Report
+===========================================
+
+Search Query: Amlodipine
+Total Trials Analyzed: 709
+
+Trials by Phase:
+--------------------
+PHASE4: 225
+PHASE1: 161
+PHASE3: 160
+PHASE2: 58
+NA: 52
+N/A: 51
+EARLY_PHASE1: 2
+
+Trials by Status:
+--------------------
+COMPLETED: 502
+UNKNOWN: 94
+RECRUITING: 35
+TERMINATED: 24
+WITHDRAWN: 22
+NOT_YET_RECRUITING: 20
+ACTIVE_NOT_RECRUITING: 10
+SUSPENDED: 2
+
+A pie chart 'trials_by_phase.png' has been generated to visualize the distribution of trials by phase.
